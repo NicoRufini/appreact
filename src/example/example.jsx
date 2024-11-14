@@ -9,3 +9,4 @@ const Example1 = () => {
         </div>
     );
 };
+export default Example1;
